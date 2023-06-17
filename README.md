@@ -1,6 +1,6 @@
 
 # My Custom wmx configuration
-
+![alt text](https://raw.githubusercontent.com/brad-bette/custom-wmx-config/main/desktop.png)
 ## What is wmx?
 
 Wmx is based on [wm2](https://www.all-day-breakfast.com/wm2/), and it retains a similar look and feel, but it provides: virtual desktops, minimal memory footprint, minimal menu's, and a very unique window border.
